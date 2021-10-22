@@ -1,0 +1,34 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(¤´û…ıÿÿÿÿ
+J
+java:S3740B"/Provide the parametrized type for this generic.(Èá•ûÿÿÿÿ
+]
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ÒÑ§Óúÿÿÿÿ
+l
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÕŞøå
+V
+java:S1854";Remove this useless assignment to local variable "maxheap".(¤´û…ıÿÿÿÿ
+>
+java:S1172
+"(Remove this unused method parameter "k".(¨Ç¼
+G
+java:S1481",Remove this unused "maxheap" local variable.(¤´û…ıÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(º‡åúÿÿÿÿ
+t
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(Ø‰î—şÿÿÿÿ
+o
+java:S2293W"YReplace the type specification in this constructor call with the diamond operator ("<>").(®È‰
+C
+java:S1604""(Make this anonymous inner class a lambda(Ø‰î—şÿÿÿÿ
+C
+java:S1604k"(Make this anonymous inner class a lambda(ƒ¸åùÿÿÿÿ
+D
+java:S1604Œ"(Make this anonymous inner class a lambda(ƒ¸åùÿÿÿÿ
+T
+java:S1155X">Use isEmpty() to check whether the collection is empty or not.(½£é‡
+r
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".(ŠŒÖ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÒÑ§Óúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öæÉìùÿÿÿÿ

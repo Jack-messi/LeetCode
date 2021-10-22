@@ -1,0 +1,40 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ë‹©êşÿÿÿÿ
+V	java:S125-"<This block of commented-out lines of code should be removed.(€ş½´ùÿÿÿÿ
+8
+java:S16596""Declare "rmin" on a separate line.(‡×ğË
+Q	java:S1250"<This block of commented-out lines of code should be removed.(İÁ Û
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(¨íĞ€
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(Ò±Š®ûÿÿÿÿ
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(ÅòŸˆ
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(Ûğ˜×ıÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¹‹¦éşÿÿÿÿ
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(†Á¸ÿÿÿÿÿ
+8
+java:S2129…"!Remove this "Integer" constructor(‡·¬¬
+O	java:S106‡"9Replace this use of System.out or System.err by a logger.(³Ÿ”á
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(¹¶ğãøÿÿÿÿ
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(ÙÜ³¸
+O	java:S106‹"9Replace this use of System.out or System.err by a logger.(õÁÒ—
+T	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ñïŒ¯şÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(È˜˜­
+O	java:S106•"9Replace this use of System.out or System.err by a logger.(ÕÓ–á
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(¥“À—
+Q
+java:S1854 ":Remove this useless assignment to local variable "string".(ê•ù
+7
+java:S2129 " Remove this "String" constructor(ê•ù
+B
+java:S1481 "+Remove this unused "string" local variable.(ê•ù
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+U
+java:S4973"9Use the "equals" method if value comparison was intended.(¹‹¦éşÿÿÿÿ
+U
+java:S4973Œ"9Use the "equals" method if value comparison was intended.(ñïŒ¯şÿÿÿÿ
+P
+java:S4973•"9Use the "equals" method if value comparison was intended.(ÕÓ–á
+P
+java:S4973˜"9Use the "equals" method if value comparison was intended.(¥“À—
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´üè†
